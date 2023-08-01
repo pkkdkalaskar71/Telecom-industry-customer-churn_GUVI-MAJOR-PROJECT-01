@@ -1,1 +1,1 @@
-# Walmart-super-store_GUVI-MAJOR-PROJECT-01
+# Telecom-industry_GUVI-MAJOR-PROJECT-01

@@ -1,0 +1,56 @@
+gender,married,Dependents,Referrals,Phone_Service,Multiple_Lines,Internet_Service,Internet_Type,Online_Security,Device_Protection,Tech_Support,Streaming_TV,Streaming_Movies,Streaming_Music,Unlimited_Data,Contract,Paperless_Billing,Customer_Status,churn_count
+Male,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,No,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Male,Yes,0,1,Yes,No,Yes,"Fiber Optic",No,Yes,No,Yes,Yes,No,Yes,Month-to-Month,Yes,Churned,1
+Female,Yes,0,3,Yes,No,Yes,"Fiber Optic",No,No,Yes,Yes,No,No,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,No,Yes,DSL,Yes,No,No,No,Yes,No,Yes,"One Year",No,Churned,1
+Female,Yes,0,1,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,Yes,No,No,Yes,Month-to-Month,No,Churned,1
+Male,No,0,0,Yes,No,Yes,DSL,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Churned,2
+Male,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Female,No,1,0,Yes,No,Yes,"Fiber Optic",No,Yes,No,Yes,Yes,No,No,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,Yes,0,1,Yes,Yes,Yes,Cable,Yes,No,Yes,Yes,Yes,Yes,Yes,"One Year",No,Churned,1
+Male,Yes,0,1,Yes,Yes,Yes,"Fiber Optic",No,Yes,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,No,No,No,No,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,No,Yes,"Fiber Optic",Yes,Yes,Yes,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,Yes,No,No,Yes,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,3
+Female,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,No,No,No,No,Yes,Month-to-Month,No,Churned,1
+Male,Yes,0,1,Yes,No,Yes,DSL,Yes,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Female,Yes,0,1,Yes,No,Yes,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,Yes,"One Year",Yes,Churned,1
+Male,Yes,0,1,Yes,Yes,Yes,"Fiber Optic",No,No,No,No,Yes,Yes,No,Month-to-Month,Yes,Churned,1
+Female,Yes,0,1,Yes,Yes,Yes,"Fiber Optic",No,No,No,No,Yes,No,Yes,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,Yes,Yes,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,Yes,"One Year",No,Churned,1
+Female,No,0,0,Yes,No,Yes,"Fiber Optic",Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,No,Churned,1
+Male,Yes,0,5,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,No,No,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,Yes,Yes,Cable,No,No,No,No,No,Yes,Yes,Month-to-Month,No,Churned,1
+Male,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,Yes,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,No,Yes,No,No,Yes,Month-to-Month,Yes,Churned,1
+Female,Yes,0,1,Yes,No,Yes,"Fiber Optic",No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Female,Yes,0,2,Yes,No,Yes,Cable,Yes,No,No,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,Yes,Yes,Cable,No,No,No,Yes,No,Yes,Yes,Month-to-Month,Yes,Churned,1
+Female,No,2,0,Yes,No,Yes,Cable,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,Yes,0,2,Yes,Yes,Yes,"Fiber Optic",No,No,No,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Male,No,1,0,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Female,Yes,0,1,Yes,No,Yes,"Fiber Optic",No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Churned,1
+Male,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Female,Yes,0,1,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Churned,1
+Male,Yes,0,1,Yes,No,Yes,"Fiber Optic",No,No,No,Yes,No,Yes,No,Month-to-Month,Yes,Churned,1
+Male,Yes,0,1,Yes,No,Yes,"Fiber Optic",Yes,No,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,No,Yes,DSL,No,No,No,No,No,No,Yes,Month-to-Month,No,Churned,1
+Female,Yes,0,1,Yes,Yes,Yes,Cable,No,Yes,No,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,No,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,No,Yes,"Fiber Optic",No,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Female,Yes,0,1,Yes,No,Yes,"Fiber Optic",No,No,No,No,No,No,Yes,Month-to-Month,No,Churned,1
+Male,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,No,No,No,Yes,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,Yes,No,Yes,Yes,Yes,No,Month-to-Month,Yes,Churned,1
+Female,No,0,0,Yes,No,Yes,"Fiber Optic",No,No,No,Yes,Yes,Yes,Yes,Month-to-Month,No,Churned,1
+Female,Yes,0,1,Yes,Yes,Yes,"Fiber Optic",No,No,Yes,Yes,Yes,Yes,No,Month-to-Month,Yes,Churned,1
+Female,Yes,0,1,Yes,No,Yes,"Fiber Optic",No,No,Yes,Yes,Yes,No,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,Yes,Yes,"Fiber Optic",No,No,No,No,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,Yes,Yes,"Fiber Optic",Yes,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-Month,Yes,Churned,1
+Male,No,0,0,Yes,Yes,Yes,Cable,No,No,Yes,Yes,No,Yes,Yes,Month-to-Month,Yes,Churned,1

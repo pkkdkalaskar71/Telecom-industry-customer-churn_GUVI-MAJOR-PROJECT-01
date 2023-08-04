@@ -54,7 +54,7 @@ This dataset can be populated with data from actual customers of the telecommuni
 With this dataset, various data analytics techniques and models can be applied to analyze the factors contributing to churn and develop predictive models to identify customers at risk of churning. This analysis can help the telecommunications company make data-driven decisions to improve customer retention strategies and reduce churn rates.
 
 
-# ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- #
+# ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- #
 
 
 # Platform :- Tableau

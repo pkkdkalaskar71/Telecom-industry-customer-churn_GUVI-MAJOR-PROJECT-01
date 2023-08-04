@@ -1,0 +1,14 @@
+0. see satyageet 2 videos on youtube
+1. create a word file, in that write what you have to say while evaluation
+2. then convert it to "pdf" or "image"
+3. them move in cell phone
+4. then just read it while evaluation
+
+
+
+
+
+(work on problem statement file to speak in evaluation) - yet to do
+
+(work on power bi word file) - done
+(work on pynb file) - done

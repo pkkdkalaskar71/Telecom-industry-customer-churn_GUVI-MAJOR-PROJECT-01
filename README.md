@@ -61,33 +61,34 @@ With this dataset, various data analytics techniques and models can be applied t
 
 To use the visualizations in Power BI, follow these steps:
 
-1. Launch Power BI Desktop:
+## 1. Launch Power BI Desktop:
    - Open Power BI Desktop on your computer.
-2. Get Data:
+## 2. Get Data:
    - Click on the "Get Data" button in the Home tab.
    - Select "CSV" as the data source and browse to the location where you exported the CSV file containing the generated data.
    - Click "Open" to load the data into Power BI.
-3. Transform and Clean Data (if needed):
+## 3. Transform and Clean Data (if needed):
    - Power Query Editor will open, allowing you to transform and clean the data as required.
    - Perform any necessary data cleaning, such as removing duplicates, handling missing values, or converting data types.
    - Apply transformations and close the Power Query Editor.
-4. Create Visualizations:
+## 4. Create Visualizations:
    - Switch to the "Report" view in Power BI Desktop.
-5. Select Visualizations:
+## 5. Select Visualizations:
    - Choose the type of visualization you want to create from the Visualizations pane on the right side of the screen. Common visualization types include charts, tables, maps, and cards.
-6. Drag and Drop Fields:
+## 6. Drag and Drop Fields:
    - From the "Fields" pane on the right side, drag and drop the desired fields onto the visualization canvas.
    - For example, you can drag the "Gender" field to the "Axis" or "Legend" section of a chart, and the "Churn Status" field to the "Values" section to analyze the churn rate by gender.
-7. Customize Visualizations:
+## 7. Customize Visualizations:
    - Use the formatting options in the "Visualizations" pane to customize the appearance of your visualizations.
    - Adjust colors, fonts, labels, and other visual elements to enhance the readability and visual impact of your analysis.
-8. Create Multiple Visualizations:
+## 8. Create Multiple Visualizations:
    - Repeat steps 5-7 to create multiple visualizations to analyze different aspects of the data.
    - You can create charts, tables, or maps to explore relationships between variables, identify trends, or compare different categories.
-9. Add Interactivity (if desired):
+## 9. Add Interactivity (if desired):
    - Use filters, slicers, or drill-through functionality to add interactivity to your report.
    - Users can interact with the visualizations by selecting or filtering data points, exploring specific subsets of data, or drilling down into more detailed information.
-10. Save and Publish:
+## 10. Save and Publish:
     - Save your Power BI report to your desired location on your computer.
     - If you want to share your report with others, you can publish it to the Power BI service or export it to various formats, such as PDF or PowerPoint.
 
+.

@@ -1,4 +1,4 @@
-# Telecom-industry_GUVI-MAJOR-PROJECT-01
+# Telecom-industry-customer-churn_GUVI-MAJOR-PROJECT-01
 
 # PROJECT NAME :- CUSTOMER CHURN (Telecom Industry)
 
